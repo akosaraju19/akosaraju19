@@ -1,6 +1,6 @@
 -  Hiii~ I’m aasritha :)
 - I’m interested in the field of data science in healthcare
-- I’m currently learning loss functions in neural networks
+- I’m currently listening to "Build a Career in Data Science" by Emily Robinson and Jacqueline Nolis(100% recommend!)
 - You can reach me at a2kosara@uwaterloo.ca
 
 <!---
