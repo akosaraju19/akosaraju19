@@ -5,14 +5,16 @@
 - 🎧 I listened to "Build a Career in Data Science" by Emily Robinson and Jacqueline Nolis when I was getting started in the field.
 - 💌 You can reach me at a2kosara@uwaterloo.ca
 
-# Resume & More
-Take a look at my [resume](https://github.com/akosaraju19/Resume/blob/main/Kosaraju_Aasritha%20.pdf)
-and [linkedin](https://www.linkedin.com/in/aasritha-k-481229199/)
-
 # Work
 - I'm currently working at [Siemens Healthineers](https://www.siemens-healthineers.com/) as a Data Scientist.
 - I've been in the field for over two year working in various industries from broadcasting to gaming to insurance!
 - Feel free to message me if you want to know more about my experiences :)
+  
+# Resume & More
+Take a look at my [resume](https://github.com/akosaraju19/Resume/blob/main/Kosaraju_Aasritha%20.pdf)
+and [linkedin](https://www.linkedin.com/in/aasritha-k-481229199/)
+
+
 
 
 <!---
