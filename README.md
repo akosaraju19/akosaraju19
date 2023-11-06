@@ -11,7 +11,7 @@
 - Feel free to message me if you want to know more about my experiences :)
   
 # Resume & More
-Take a look at my [resume](https://github.com/akosaraju19/Resume/blob/main/Kosaraju_Aasritha%20.pdf)
+Take a look at my [resume](https://github.com/akosaraju19/Resume/blob/main/Kosaraju_Aasritha.pdf)
 and [linkedin](https://www.linkedin.com/in/aasritha-k-481229199/)
 
 
