@@ -7,7 +7,7 @@
 
 # Work
 - I'm currently working at [Siemens Healthineers](https://www.siemens-healthineers.com/) as a Data Scientist.
-- I've been in the field for over two year working in various industries from broadcasting to gaming to insurance!
+- I've been in the field for over two year working in various industries from broadcasting to gaming to insurance and now medicine!
 - Feel free to message me if you want to know more about my experiences :)
   
 # Resume & More
