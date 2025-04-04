@@ -1,6 +1,6 @@
 # Hiii! I'm Aasritha :)
 
-- 🧮 I'm currently a fourth year student at the University of Waterloo majoring in Statistics
+- 🧮 I'm University of Waterloo Statistics graduate!
 - 🩺 I'm particulary interested in how data science can drive innovation across the sciences :)
 - 🎧 I listened to "Build a Career in Data Science" by Emily Robinson and Jacqueline Nolis when I was getting started in the field.
 - 💌 You can reach me at akosaraju19@gmail.com
